@@ -1,5 +1,5 @@
 
 public class sss {
-	int a=10;
+	int a=20;
 
 }
